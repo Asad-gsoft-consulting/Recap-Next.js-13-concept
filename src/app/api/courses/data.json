@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "React Front To Back",
+    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
+    "link": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Node.js API Masterclass",
+    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB",
+    "link": "https://www.youtube.com/watch?v=zaLfOjNEOaQ&list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "Modern JavaScript From The Beginning",
+    "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript.",
+    "link": "https://www.youtube.com/watch?v=JTcjSvFptEM&list=PLwGdqUZWnOp19VX-DM4oHtmWhDfWblFh-",
+    "level": "All Levels"
+  },
+  {
+    "id": 4,
+    "title": "Next.js Dev To Deployment",
+    "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
+    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Learn Tailwind CSS – Course for Beginners",
+    "description": "This course will give you a full introduction into all of the core concepts of Tailwind CSS — it will also provide details on every features that provides Tailwindcss.",
+    "link": "https://www.youtube.com/watch?v=ft30zcMlFao&t=7950s",
+    "level": "Beginner"
+  }
+]
